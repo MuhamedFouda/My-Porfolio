@@ -141,6 +141,7 @@ export const cv = {
         "Built a scalable SaaS platform with Admin and Coach dashboards",
         "Implemented a modular feature-based architecture with secure JWT authentication",
         "Developed program builders, challenge systems, and analytics dashboards",
+        "Implemented full multi-language support across 7 languages using i18next",
       ],
       tech: ["React 19", "Zustand", "TanStack Query", "Tailwind CSS", "Vite"],
       github: null,
@@ -174,13 +175,26 @@ export const cv = {
       live: null,
     },
     {
-      name: "Raalc – Court ERP System (UAE)",
+      name: "Raalc – Admin Dashboard (UAE)",
       description:
-        "An enterprise-grade ERP system for UAE court and legal service operations with Admin and Vendor dashboards.",
+        "An enterprise-grade admin dashboard for UAE court and legal service operations with full system control and oversight.",
       highlights: [
-        "Developed an enterprise-grade ERP system for UAE court and legal service operations",
+        "Developed an enterprise-grade ERP admin panel for UAE court and legal service operations",
         "Built RBAC, audit logs, and full case, appointment, and financial management workflows",
         "Implemented analytics dashboards and a responsive UI with full RTL (Arabic) support",
+      ],
+      tech: ["React 19", "Vite", "Tailwind CSS", "MUI", "Recharts"],
+      github: null,
+      live: null,
+    },
+    {
+      name: "Raalc – Vendor Dashboard (UAE)",
+      description:
+        "A vendor-facing dashboard for UAE court and legal service agents to manage cases, appointments, and operations.",
+      highlights: [
+        "Built a vendor portal for managing legal cases, appointments, and financial operations",
+        "Implemented role-specific views and workflows tailored to vendor agents",
+        "Designed a responsive UI with full RTL (Arabic) support",
       ],
       tech: ["React 19", "Vite", "Tailwind CSS", "MUI", "Recharts"],
       github: null,
