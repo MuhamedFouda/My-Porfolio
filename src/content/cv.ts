@@ -184,7 +184,7 @@ export const cv = {
       ],
       tech: ["React 19", "Vite", "Tailwind CSS", "MUI", "Recharts"],
       github: null,
-      live: "null",
+      live: "https://raalc-agent.addictaco.website/login",
     },
     {
       name: "Bask Owner Dashboard",
